@@ -2,4 +2,3 @@
 def display_board
   return "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
 end
-  
